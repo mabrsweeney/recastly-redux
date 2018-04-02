@@ -8,6 +8,7 @@ node_modules/
 ## Compiled files ##
 compiled/
 dist/
+package-lock.json
 
 ## API keys ##
 src/config/youtube.js
